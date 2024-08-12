@@ -10,3 +10,16 @@ h {
 a {
     color: $secondary;
 }
+button {
+    color: white;
+    border:0;
+    background: $secondary;
+}
+
+.error {
+    color: $error;
+}
+
+.notification {
+    color: $notification;
+}
